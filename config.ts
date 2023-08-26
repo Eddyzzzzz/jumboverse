@@ -3,10 +3,10 @@
 //DOORS: ID of door objects (only works with drop for now) and limited to 1x3 doors
 
 module.exports = {
-  API_KEY: "1srYM822j0rwhqJj",
+  API_KEY: "xxxxxx",
   
-  url: "4e31x6F6onnGNChp\\Eddy_test",
-  SPACE_ID: "4e31x6F6onnGNChp\\Eddy_test",
+  url: "xxxxxx",
+  SPACE_ID: "xxxxxx",
 
   // url: "oimL5gsmKZJcFExW\\mastermind-demo",
   // SPACE_ID: "oimL5gsmKZJcFExW\\mastermind-demo",
